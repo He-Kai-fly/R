@@ -4093,7 +4093,7 @@ ggboxplot(ToothGrowth, #数据对象
 #### 分组均值连线箱线图
 
 ```
-
+library(ggplot2)
 ```
 
 
